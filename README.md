@@ -1,0 +1,2 @@
+# sccodonbert
+CodonBERT for Yeast
